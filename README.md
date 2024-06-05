@@ -4,3 +4,4 @@ I'm a front-end web developer passionate about delivering outstanding web UX. I 
 Photoshop, Illustrator, and Figma are also part of my toolbox and help me build webpage prototypes and create visual assets. 
 
 :mailbox: Reach out for remote opportunities. 
+
