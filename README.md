@@ -11,7 +11,7 @@ Currently building **[saas-ui](https://github.com/AleKoles/saas-ui)** — an ope
 **Design** — Figma · Illustrator · Photoshop  
 **Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js  
 **Systems** — Design tokens · Storybook · Accessibility (WCAG AA)  
-**Tools** — Git · MODX CMS · Wagtail CMS  
+**Tools** — Git · MODX CMS · Payload CMS  
 
 ---
 
