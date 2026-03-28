@@ -1,6 +1,6 @@
 # Hi, I'm Alexandra 👋
 
-I'm a **UX Engineer** based in Germany — I bridge the gap between Figma and production-ready React code, with a focus on accessible, token-driven design systems for SaaS products.
+I'm a **UX Engineer** and **Product Designerr** based in Germany — I bridge the gap between Figma and production-ready React code, with a focus on accessible, token-driven design systems for SaaS products.
 
 Currently building **[saas-ui](https://github.com/AleKoles/saas-ui)** — an open source accessible component library with WCAG AA compliance, three built-in themes, and a live Storybook.
 
