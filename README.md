@@ -24,5 +24,5 @@ Currently building **[saas-ui](https://github.com/AleKoles/saas-ui)** — an ope
 
 ---
 
-📫 Open to remote **Design Engineer**, **UI Engineer**, or **Frontend Product** roles in product companies  
+📫 Open to remote **Design Engineer**, **UI Engineer**, or **Product Designer** roles in product companies  
 🔗 [Portfolio](https://kolesnikova-portfolio.netlify.app) · [LinkedIn](https://linkedin.com/in/oleksandra-kolesnikova)
