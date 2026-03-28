@@ -12,7 +12,7 @@ Currently building **[saas-ui](https://github.com/AleKoles/saas-ui)** — an ope
 **Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js  
 **Systems** — Design tokens · Storybook · Accessibility (WCAG 2.2 AA)  
 **Tools** — Git · MODX CMS · Payload CMS  
-**AI & Prototypings** — Claude (Cursor) · V0.app · Figma AI/MCPs · Stitch (Design Ops) · Pencil.dev
+**AI & Prototypings** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops) · Pencil.dev
 
 ---
 
