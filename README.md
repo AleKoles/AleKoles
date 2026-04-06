@@ -8,10 +8,10 @@ I'm a **UX Engineer** and **Product Designer** based in Germany. I bridge the ga
 
 ### 🛠 Tech & Design Stack
 
-**Design & Systems** — Figma · Design Tokens · Storybook · WCAG 2.2 AA · Semantic Documentation
-**Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js · CSS Modules
-**AI-First Workflow** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops)
-**Platforms** — Git · Payload CMS · MODX
+* **Design & Systems** — Figma · Design Tokens · Storybook · WCAG 2.2 AA · Semantic Documentation
+* **Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js · CSS Modules
+* **AI-First Workflow** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops) · Pencil.dev
+* **Platforms** — Git · Payload CMS · MODX
 
 ---
 
