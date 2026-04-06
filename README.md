@@ -1,28 +1,30 @@
 # Hi, I'm Alexandra 👋
 
-I'm a **UX Engineer** and **Product Designer** based in Germany — I bridge the gap between Figma and production-ready React code, with a focus on accessible, token-driven design systems for SaaS products.
+I'm a **UX Engineer** and **Product Designer** based in Germany. I bridge the gap between Figma and production-ready React code, with a focus on accessible, token-driven design systems for SaaS products.
 
-Currently building **[saas-ui](https://github.com/AleKoles/saas-ui)** — an open source accessible component library with WCAG AA compliance, three built-in themes, and a live Storybook.
-
----
-
-### What I work with
-
-**Design** — Figma · Illustrator · Photoshop  
-**Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js  
-**Systems** — Design tokens · Storybook · Accessibility (WCAG 2.2 AA)  
-**Tools** — Git · MODX CMS · Payload CMS  
-**AI & Prototypings** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops) · Pencil.dev
+**Currently building [saas-ui](https://github.com/AleKoles/saas-ui)** — an open-source, accessible component library with WCAG 2.1 AA compliance, theme-switching, and a live Storybook.
 
 ---
 
-### What I'm focused on right now
+### 🛠 Tech & Design Stack
 
-- 🧱 Building `saas-ui` — accessible SaaS dashboard components
-- ♿ Deepening ARIA patterns and keyboard navigation
-- 📊 Growing into data visualisation for dashboards
+**Design & Systems** — Figma · Design Tokens · Storybook · WCAG 2.2 AA · Semantic Documentation
+**Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js · CSS Modules
+**AI-First Workflow** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops)
+**Platforms** — Git · Payload CMS · MODX
 
 ---
 
-📫 Open to remote **Design Engineer**, **UI Engineer**, or **Product Designer** roles in product companies  
-🔗 [Portfolio](https://kolesnikova-portfolio.netlify.app) · [LinkedIn](https://linkedin.com/in/oleksandra-kolesnikova)
+### 🚀 What I'm focused on right now
+
+- 🧱 **saas-ui** — Refining accessible dashboard components for complex B2B workflows.
+- ♿ **Accessibility** — Deepening ARIA patterns and advanced keyboard navigation.
+- 🤖 **Agentic UI** — Exploring how AI agents can interact with structured design systems.
+
+---
+
+### 📫 Let's Connect
+
+I'm currently open to remote **UX Engineer**, **Design Engineer**, or **Senior Product Designer** roles (EU-based).
+
+🔗 [Portfolio](https://kolesnikova-portfolio.netlify.app) · [LinkedIn](https://linkedin.com/in/oleksandra-kolesnikova) · [Email](mailto:your-email@example.com)
