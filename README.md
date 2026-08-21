@@ -1,23 +1,23 @@
 # Hi, I'm Alexandra 👋
 
-I'm a **Design Engineer** and based in Germany. I bridge the gap between Figma and production-ready React code, with a focus on accessible, token-driven design systems for SaaS products.
+I'm a **Design Engineer** and **UI Architect** based in Germany. I build scalable, production-ready design systems that connect Figma with React—reducing handoff friction and accelerating delivery for complex SaaS and AI-driven interfaces.
 
 ---
 
 ### 🛠 Tech & Design Stack
 
-* **Design & Systems** — Figma · Design Tokens · Storybook · WCAG 2.2 AA · Semantic Documentation
-* **Frontend** — React · TypeScript · Tailwind CSS · GSAP · Alpine.js · CSS Modules
-* **AI-First Workflow** — Claude (Cursor) · V0.app · Figma Console MCP · Stitch (Design Ops) · Pencil.dev
+* **Design Systems & Architecture** — Figma · Design Tokens · Storybook Workflows · Component Libraries · WCAG 2.2 AA · Token Pipelines
+* **Frontend** — React · TypeScript · Tailwind CSS · CSS Modules · GSAP · Alpine.js
+* **AI-First Workflow** — Cursor (Claude) · V0.app · Figma Console MCP · Stitch (Design Ops) · Pencil.dev
 * **Platforms** — Git · Payload CMS · MODX
 
 ---
 
-### 🚀 What I'm focused on right now
+### 🚀 What I Do
 
-- 🧱 **saas-ui** — Refining accessible dashboard components for complex B2B workflows.
-- ♿ **Accessibility** — Deepening ARIA patterns and advanced keyboard navigation.
-- 🤖 **Agentic UI** — Exploring how AI agents can interact with structured design systems.
+* **Connect Design & Code:** Build 0→1 token-driven systems that bring Figma specs seamlessly into React production environments.
+* **Scale UI Infrastructure:** Create reusable frontend patterns, accessible component libraries, and robust Storybook documentation.
+* **Optimize Team Delivery:** Streamline cross-functional collaboration to deliver measurable gains in speed, consistency, and implementation quality.
 
 ---
 
